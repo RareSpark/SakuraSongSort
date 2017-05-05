@@ -9,7 +9,7 @@ $(document).ready(function() {
 	$("#fldLeft, #fldMiddleT, #fldRight, #fldMiddleB").hover(function() {
 		$(this).css("background-color", "#F0027E");
 	}, function() {
-		$(this).css("background-color", "#fff");
+		$(this).css("background-color", "#FFD1DC");
 	});
 
 	$("#menu-restart").click(function() {
